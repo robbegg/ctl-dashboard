@@ -35,16 +35,6 @@ jobs:
           python scripts/sync_garmin.py
           python scripts/compute_metrics.py
 
-      - name: Generate plan
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          ATHLETE_PROFILE_PRIVATE: ${{ secrets.ATHLETE_PROFILE_PRIVATE }}
-          LOCATION_LAT: ${{ secrets.LOCATION_LAT }}
-          LOCATION_LON: ${{ secrets.LOCATION_LON }}
-          PLAN_OVERRIDE: ${{ vars.PLAN_OVERRIDE }}
-        run: python scripts/generate_plan.py
-
       - name: Commit plan
         run: |
           git config user.name "fitness-bot"

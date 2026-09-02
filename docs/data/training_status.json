@@ -20,14 +20,14 @@
   211
  ],
  "load_balance_feedback": "AEROBIC_HIGH_SHORTAGE",
- "readiness_score": 75,
+ "readiness_score": 86,
  "readiness_level": "high",
  "readiness_feedback": "well recovered",
- "readiness_recovery_hours": 10,
+ "readiness_recovery_hours": 0,
  "readiness_hrv_factor": "very good",
  "readiness_acwr_factor": "good",
  "readiness_sleep_factor": "good",
- "readiness_sleep_history": "moderate",
+ "readiness_sleep_history": "good",
  "readiness_stress_history": "good",
  "readiness_recovery_factor": "good",
  "readiness_hrv_weekly_avg": 32

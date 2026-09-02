@@ -5202,6 +5202,23 @@
   "sport": "swim"
  },
  {
+  "id": 24119588945,
+  "type": "running",
+  "start": "2026-08-26 16:11:27",
+  "duration_s": 3606.612060546875,
+  "distance_m": 8225.669921875,
+  "elev_gain_m": 36.87000000476837,
+  "avg_hr": 140.0,
+  "max_hr": 156.0,
+  "avg_power": 311.0,
+  "norm_power": 320.0,
+  "calories": 716.0,
+  "training_load": 70.46359252929688,
+  "aerobic_te": 3.200000047683716,
+  "load": 70.5,
+  "sport": "other"
+ },
+ {
   "id": 24131663978,
   "type": "strength_training",
   "start": "2026-08-27 14:13:12",
@@ -5236,6 +5253,23 @@
   "sport": "cycling"
  },
  {
+  "id": 24144888232,
+  "type": "running",
+  "start": "2026-08-28 16:32:40",
+  "duration_s": 1689.4090576171875,
+  "distance_m": 4064.0,
+  "elev_gain_m": 23.07999999821186,
+  "avg_hr": 135.0,
+  "max_hr": 150.0,
+  "avg_power": 319.0,
+  "norm_power": 327.0,
+  "calories": 349.0,
+  "training_load": 46.602447509765625,
+  "aerobic_te": 2.799999952316284,
+  "load": 46.6,
+  "sport": "other"
+ },
+ {
   "id": 24153000559,
   "type": "road_biking",
   "start": "2026-08-29 06:45:20",
@@ -5268,6 +5302,23 @@
   "aerobic_te": 3.0999999046325684,
   "load": 203.9,
   "sport": "cycling"
+ },
+ {
+  "id": 24165676854,
+  "type": "running",
+  "start": "2026-08-30 07:44:04",
+  "duration_s": 5670.33984375,
+  "distance_m": 14030.169921875,
+  "elev_gain_m": 25.28999999165535,
+  "avg_hr": 145.0,
+  "max_hr": 158.0,
+  "avg_power": 332.0,
+  "norm_power": 342.0,
+  "calories": 1241.0,
+  "training_load": 153.3507080078125,
+  "aerobic_te": 4.5,
+  "load": 153.4,
+  "sport": "other"
  },
  {
   "id": 24167077983,
@@ -5321,6 +5372,23 @@
   "sport": "cycling"
  },
  {
+  "id": 24178917576,
+  "type": "running",
+  "start": "2026-08-31 12:12:30",
+  "duration_s": 1815.362060546875,
+  "distance_m": 4281.72021484375,
+  "elev_gain_m": 15.159999996423721,
+  "avg_hr": 138.0,
+  "max_hr": 149.0,
+  "avg_power": 316.0,
+  "norm_power": 324.0,
+  "calories": 376.0,
+  "training_load": 46.95069885253906,
+  "aerobic_te": 2.5999999046325684,
+  "load": 47.0,
+  "sport": "other"
+ },
+ {
   "id": 24181955457,
   "type": "yoga",
   "start": "2026-08-31 17:53:54",
@@ -5370,5 +5438,22 @@
   "aerobic_te": 2.799999952316284,
   "load": 139.0,
   "sport": "mtb"
+ },
+ {
+  "id": 24204728458,
+  "type": "running",
+  "start": "2026-09-02 12:18:07",
+  "duration_s": 1810.9549560546875,
+  "distance_m": 4288.27978515625,
+  "elev_gain_m": 30.769999980926514,
+  "avg_hr": 137.0,
+  "max_hr": 151.0,
+  "avg_power": 326.0,
+  "norm_power": 333.0,
+  "calories": 378.0,
+  "training_load": 49.89201354980469,
+  "aerobic_te": 2.700000047683716,
+  "load": 49.9,
+  "sport": "other"
  }
 ]

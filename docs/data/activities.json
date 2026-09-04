@@ -1,22 +1,5 @@
 [
  {
-  "id": 21881341726,
-  "type": "strength_training",
-  "start": "2026-02-16 12:02:43",
-  "duration_s": 1942.9630126953125,
-  "distance_m": 0.0,
-  "elev_gain_m": null,
-  "avg_hr": 95.0,
-  "max_hr": 116.0,
-  "avg_power": null,
-  "norm_power": null,
-  "calories": 53.0,
-  "training_load": 1.8890533447265625,
-  "aerobic_te": 0.20000000298023224,
-  "load": 1.9,
-  "sport": "gym"
- },
- {
   "id": 21891543621,
   "type": "running",
   "start": "2026-02-17 12:13:07",

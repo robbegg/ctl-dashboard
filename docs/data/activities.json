@@ -916,5 +916,22 @@
   "aerobic_te": 2.4000000953674316,
   "load": 37.2,
   "sport": "other"
+ },
+ {
+  "id": 24239769905,
+  "type": "running",
+  "start": "2026-09-05 06:04:59",
+  "duration_s": 5400.3388671875,
+  "distance_m": 12713.9404296875,
+  "elev_gain_m": 46.49000000953674,
+  "avg_hr": 135.0,
+  "max_hr": 152.0,
+  "avg_power": 322.0,
+  "norm_power": 326.0,
+  "calories": 1101.0,
+  "training_load": 95.35848999023438,
+  "aerobic_te": 3.4000000953674316,
+  "load": 95.4,
+  "sport": "other"
  }
 ]
